@@ -1,11 +1,16 @@
 {
   "show": true,
-  "text": "📢 test test test ",
+  "text": "📢 公告栏...",
   "link": "https://www.bing.com",
 
-  "banner_show": true,
+  "banner_show": true,    
+  "//注释1": "👆 【只控制顶部小横幅】",
+
+  "splash_show": true,    
+  "//注释2": "👆 【只控制大开屏】",
+
   "banner_link": "https://www.bing.com",
-  "banner_duration": 4,
+  "banner_duration": 6,
   "banner_large": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-27%20192242.png",
   "banner_small": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-27%20192453.png"
 }
