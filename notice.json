@@ -10,7 +10,9 @@
   "//注释2": "【只控制大开屏】",
 
   "banner_link": "https://www.bing.com",
-  "banner_duration": 10,
+  "banner_duration": 4,
+  "//控制": "可以是 50vh (屏幕高度的一半) 或 500px (固定像素)",
+  "splash_size": "50vh",
   "banner_large": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-27%20192242.png",
   "banner_small": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-27%20192453.png"
 }
