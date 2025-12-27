@@ -1,18 +1,28 @@
 {
   "show": true,
-  "text": "📢 test...",
+  "text": "📢 这是一个测试公告...",
   "link": "https://www.bing.com",
 
-  "banner_show": true,    
-  "//注释1": "【只控制顶部小横幅】",
+  "banner_show": true,
+  "//注释1": "👆 【只控制顶部小横幅】",
 
-  "splash_show": true,    
-  "//注释2": "【只控制大开屏】",
+  "splash_show": true,
+  "//注释2": "👇 【只控制开屏/桌面挂件】",
 
   "banner_link": "https://www.bing.com",
-  "banner_duration": 4,
-  "//控制": "可以是 50vh (屏幕高度的一半) 或 500px (固定像素)",
-  "splash_size": "50vh",
+
+  "banner_duration": -1,
+  "//说明-时间": "🔴 -1 代表无限时间(挂件模式)，填 3 代表倒计时 3 秒",
+
+  "splash_size": "300px",
+  "//说明-大小": "🔴 可以是 50vh (屏幕高度一半) 或 300px (固定大小)",
+
+  "splash_transparent": true,
+  "//说明-透明": "🔴 true = 背景透明(鼠标可穿透点击软件)，false = 黑色背景",
+
+  "splash_position": "bottom-right",
+  "//说明-位置": "🔴 可选: center (居中), top-left, top-right, bottom-left, bottom-right (右下角)",
+
   "banner_large": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-27%20192242.png",
   "banner_small": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-27%20192453.png"
 }
