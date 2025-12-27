@@ -1,13 +1,8 @@
 {
   "splash_show": true,
   "banner_large": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/dlhx.mp4",
-  
   "banner_duration": 60,
-  "//说明": "👆 设置为 60 秒，时间到自动关闭",
-  
   "splash_show_countdown": false,
-  "//说明": "👆 【关键】设置为 false，隐藏底部的倒计时黑条！",
-  
   "splash_position": "bottom-right",
   "splash_size": "300px",
   "splash_transparent": true,
