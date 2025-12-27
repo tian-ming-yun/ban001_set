@@ -1,0 +1,11 @@
+{
+  "show": true,
+  "text": "📢 这是一个测试公告，来自 ban001_set 仓库",
+  "link": "https://www.baidu.com",
+
+  "banner_show": true,
+  "banner_link": "https://www.bing.com",
+  "banner_duration": 4,
+  "banner_large": "https://img1.baidu.com/it/u=3420808386,3573332467&fm=253&fmt=auto&app=138&f=JPEG?w=800&h=500",
+  "banner_small": "https://img0.baidu.com/it/u=2286982464,2641662963&fm=253&fmt=auto&app=138&f=JPEG?w=1200&h=100"
+}
