@@ -1,17 +1,12 @@
 {
-  "//模式": "方案A-全视频模式",
-  
   "show": true,
   "text": "🎬 现在的横幅和开屏都是视频了！",
   "link": "https://www.bing.com",
-
   "banner_show": true,
   "banner_small": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/dlhx.mp4",
   "banner_link": "https://www.bing.com",
-
   "splash_show": true,
   "banner_large": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/dlhx.mp4",
-  
   "banner_duration": 20,
   "splash_frequency": "always",
   "splash_size": "85vh",
