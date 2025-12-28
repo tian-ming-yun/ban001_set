@@ -6,13 +6,14 @@
   "link": "https://github.com/tian-ming-yun",
 
   "top_banner_show": true,
-  "banner_small": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/small.png",
+  "banner_small": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-27%20192453.png", 
   "banner_link": "https://www.bing.com",
 
   "large_splash_show": true,
   "splash_frequency": "always",
-  "splash_large": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/large.png",
+  "splash_large": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-27%20192242.png",
   "splash_link": "https://www.bilibili.com",
+  
   "splash_duration": 5, 
   "splash_size": "85vh",
   "splash_position": "center",
