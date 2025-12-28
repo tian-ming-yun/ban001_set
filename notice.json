@@ -1,6 +1,5 @@
 {
   "comment": "test",
-
   "text_show": true,
   "text": "🔥 test test test！",
   "link": "https://github.com/tian-ming-yun",
@@ -13,11 +12,10 @@
   "splash_frequency": "always",
   "splash_large": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/dlhx.mp4",
   "splash_link": "https://www.bilibili.com",
-  
   "splash_duration": 5, 
-  "splash_size": "85vh",
+  "splash_size": "50vh",
   "splash_position": "center",
-  "splash_transparent": false,
+  "splash_transparent": true,
   "splash_closable": true,
   "splash_show_countdown": true
 }
