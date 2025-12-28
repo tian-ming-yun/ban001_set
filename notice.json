@@ -1,8 +1,8 @@
 {
-  "comment": "终极统一命名版配置",
+  "comment": "test",
 
   "text_show": true,
-  "text": "🔥 命名终于全部统一了！",
+  "text": "🔥 test test test！",
   "link": "https://github.com/tian-ming-yun",
 
   "top_banner_show": true,
@@ -11,7 +11,7 @@
 
   "large_splash_show": true,
   "splash_frequency": "always",
-  "splash_large": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-27%20192242.png",
+  "splash_large": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/dlhx.mp4",
   "splash_link": "https://www.bilibili.com",
   
   "splash_duration": 5, 
