@@ -11,11 +11,9 @@
 
   "large_splash_show": true,
   "splash_frequency": "always",
-  "banner_large": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/large.png",
+  "splash_large": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/large.png",
   "splash_link": "https://www.bilibili.com",
-  
   "splash_duration": 5, 
-  
   "splash_size": "85vh",
   "splash_position": "center",
   "splash_transparent": false,
