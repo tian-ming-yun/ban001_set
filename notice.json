@@ -1,18 +1,24 @@
 {
-  "show": true,
-  "text": "🎉 2025新年快乐！...",
-  "link": "https://www.bing.com",
-  
-  "banner_show": true,
+  "comment": "终极统一命名版配置",
+
+  "text_show": true,
+  "text": "🔥 命名终于全部统一了！",
+  "link": "https://github.com/tian-ming-yun",
+
+  "top_banner_show": true,
+  "banner_small": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/small.png",
   "banner_link": "https://www.bing.com",
-  "banner_small": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-27%20192453.png",
+
+  "large_splash_show": true,
+  "splash_frequency": "always",
+  "banner_large": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/large.png",
+  "splash_link": "https://www.bilibili.com",
   
-  "splash_show": true,
-  "splash_frequency": "daily",
-  "banner_large": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-27%20192242.png",
-  "banner_duration": 5,
-  "splash_size": "50vh",
+  "splash_duration": 5, 
+  
+  "splash_size": "85vh",
   "splash_position": "center",
   "splash_transparent": false,
+  "splash_closable": true,
   "splash_show_countdown": true
 }
