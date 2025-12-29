@@ -13,7 +13,7 @@
   "splash_frequency": "always",
   "splash_large": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/dlhx.mp4",
   "splash_link": "https://www.bilibili.com",
-  "splash_duration": 10,
+  "splash_duration": -1,
   "splash_size": "10%",
   "splash_position": "bottom-right",
   "splash_transparent": true,
