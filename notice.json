@@ -1,14 +1,8 @@
 {
-  "nid_text": "20250101_01",
-  "nid_banner": "20250101_01",
-  "nid_mod": "20250101_01",
-  "nid_splash": "20250101_01",
-
-  "v_status": true,
-  "text": "🔥 test test test！",
-  "link": "https://github.com/tian-ming-yun",
-  "text_size": "40px",
-  "text_duration": 10,
+  "ver_a": "20250101_01",
+  "ver_b": "20250101_01",
+  "ver_c": "20250101_01",
+  "ver_d": "20250101_01",
 
   "ext_mode": true,
   "ext_close": false,
@@ -23,6 +17,13 @@
   "mod_ref": "https://github.com",
   "mod_size": "200px",
   "mod_duration": -1,
+
+  "v_status": true,
+  "text_close": true,
+  "text": "🔥 test test test！",
+  "link": "https://github.com/tian-ming-yun",
+  "text_size": "40px",
+  "text_duration": 10,
 
   "sys_flag": true,
   "sys_close": false,
