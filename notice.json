@@ -37,5 +37,6 @@
   "d_frq": "always",
   "d_pos": "top:200px; right:20px;",
   "d_tra": true,
-  "d_cnt": true
+  "d_cnt": true,
+  "d_drg": true
 }
