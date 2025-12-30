@@ -9,7 +9,7 @@
   "b_src": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-27%20192453.png",
   "b_jmp": "https://www.bing.com",
   "b_dim": "120px",
-  "b_tm": -1,
+  "b_tm": 30,
   "b_frq": "always",
 
   "c_run": true,
@@ -17,7 +17,7 @@
   "c_src": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/dlhx.mp4",
   "c_jmp": "https://github.com",
   "c_dim": "200px",
-  "c_tm": -1,
+  "c_tm": 20,
   "c_frq": "always",
 
   "a_run": true,
@@ -25,8 +25,8 @@
   "a_msg": "🔥 te",
   "a_jmp": "https://github.com/tian-ming-yun",
   "a_dim": "40px",
-  "a_tm": 15,
-  "a_frq": "daily",
+  "a_tm": 10,
+  "a_frq": "always",
 
   "d_run": true,
   "d_cls": false,
