@@ -3,15 +3,21 @@
   "ext_close": false,
   "banner_small": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-27%20192453.png",
   "banner_link": "https://www.bing.com",
+  "banner_size": "120px",
+  "banner_duration": -1,
   
   "mod_stat": true,
-  "mod_src": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/dlhx.mp4",
+  "mod_src": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/image_dc1734.jpg",
   "mod_ref": "https://github.com",
   "mod_allow": true,
+  "mod_size": "100px",
+  "mod_duration": -1,
 
   "v_status": true,
   "text": "🔥 test test test！",
   "link": "https://github.com/tian-ming-yun",
+  "text_size": "40px",
+  "text_duration": 10,
 
   "sys_flag": true,
   "sys_close": false,
