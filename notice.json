@@ -9,7 +9,7 @@
   "mod_stat": true,
   "mod_src": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/image_dc1734.jpg",
   "mod_ref": "https://github.com",
-  "mod_allow": true,
+  "mod_allow": false,
   "mod_size": "100px",
   "mod_duration": -1,
 
