@@ -17,7 +17,7 @@
   "c_src": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/dlhx.mp4",
   "c_jmp": "https://github.com",
   "c_dim": "20px",
-  "c_tm": 20,
+  "c_tm": -1,
   "c_frq": "always",
 
   "a_run": true,
