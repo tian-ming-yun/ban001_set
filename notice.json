@@ -35,7 +35,7 @@
   "d_dim": "30%",
   "d_tm": -1,
   "d_frq": "always",
-  "d_pos": "bottom-left",
+  "d_pos": "top-left",
   "d_tra": true,
   "d_cnt": true,
   "d_drg": true
