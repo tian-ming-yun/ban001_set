@@ -4,7 +4,7 @@
   "a_ver": "20250101_01",
   "d_ver": "20250101_01",
 
-  "b_run": true,
+  "b_run": false,
   "b_cls": true,
   "b_src": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/dlhx.mp4",
   "b_jmp": "https://www.bing.com",
@@ -12,7 +12,7 @@
   "b_tm": 10,
   "b_frq": "always",
 
-  "c_run": true,
+  "c_run": false,
   "c_cls": true,
   "c_src": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/dlhx.mp4",
   "c_jmp": "https://github.com",
@@ -20,7 +20,7 @@
   "c_tm": 20,
   "c_frq": "always",
 
-  "a_run": true,
+  "a_run": false,
   "a_cls": true,
   "a_msg": "🔥 te",
   "a_jmp": "https://github.com/tian-ming-yun",
@@ -28,7 +28,7 @@
   "a_tm": 30,
   "a_frq": "always",
 
-  "d_run": true,
+  "d_run": false,
   "d_cls": true,
   "d_src": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/dlhx.mp4",
   "d_jmp": "https://www.bilibili.com",
