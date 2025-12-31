@@ -29,13 +29,13 @@
   "a_frq": "always",
 
   "d_run": true,
-  "d_cls": true,
+  "d_cls": false,
   "d_src": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/dlhx.mp4",
   "d_jmp": "https://www.bilibili.com",
-  "d_dim": "20%",
+  "d_dim": "30%",
   "d_tm": -1,
   "d_frq": "always",
-  "d_pos": "top:200px; right:20px;",
+  "d_pos": "bottom-right",
   "d_tra": true,
   "d_cnt": true,
   "d_drg": true
