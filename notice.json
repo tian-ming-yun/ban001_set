@@ -6,11 +6,11 @@
 
   "b_run": true,
   "b_cls": true,
-  "b_src": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-27%20192453.png",
+  "b_src": "https://raw.githubusercontent.com/tian-ming-yun/ban001_set/main/dlhx.mp4",
   "b_jmp": "https://www.bing.com",
   "b_dim": "100px",
   "b_tm": 10,
-  "b_frq": "daily",
+  "b_frq": "always",
 
   "c_run": true,
   "c_cls": true,
